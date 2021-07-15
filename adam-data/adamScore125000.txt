@@ -1,0 +1,94 @@
+0th iteration1
+0th iteration2
+0th iteration3
+0th iteration4
+0th iteration5
+0th iteration6
+0th iteration7
+0th iteration8
+0th iteration9
+0th iteration10
+0th iteration11
+0th iteration12
+0th iteration13
+0th iteration14
+================================================
+The Final score is: 14
+================================================
+1th iteration1
+1th iteration2
+================================================
+The Final score is: 2
+================================================
+2th iteration1
+2th iteration2
+2th iteration3
+2th iteration4
+2th iteration5
+2th iteration6
+2th iteration7
+2th iteration8
+2th iteration9
+2th iteration10
+================================================
+The Final score is: 10
+================================================
+3th iteration1
+3th iteration2
+3th iteration3
+3th iteration4
+3th iteration5
+3th iteration6
+3th iteration7
+3th iteration8
+3th iteration9
+================================================
+The Final score is: 9
+================================================
+================================================
+The Final score is: 0
+================================================
+5th iteration1
+================================================
+The Final score is: 1
+================================================
+6th iteration1
+6th iteration2
+6th iteration3
+================================================
+The Final score is: 3
+================================================
+7th iteration1
+7th iteration2
+7th iteration3
+7th iteration4
+7th iteration5
+================================================
+The Final score is: 5
+================================================
+8th iteration1
+8th iteration2
+8th iteration3
+8th iteration4
+8th iteration5
+8th iteration6
+8th iteration7
+8th iteration8
+8th iteration9
+8th iteration10
+8th iteration11
+8th iteration12
+8th iteration13
+8th iteration14
+8th iteration15
+================================================
+The Final score is: 15
+================================================
+9th iteration1
+9th iteration2
+9th iteration3
+9th iteration4
+9th iteration5
+================================================
+The Final score is: 5
+================================================

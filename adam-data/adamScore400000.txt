@@ -1,0 +1,186 @@
+0th iteration1
+0th iteration2
+0th iteration3
+0th iteration4
+0th iteration5
+0th iteration6
+0th iteration7
+0th iteration8
+0th iteration9
+0th iteration10
+0th iteration11
+0th iteration12
+0th iteration13
+0th iteration14
+0th iteration15
+0th iteration16
+0th iteration17
+0th iteration18
+0th iteration19
+0th iteration20
+0th iteration21
+0th iteration22
+0th iteration23
+0th iteration24
+0th iteration25
+0th iteration26
+0th iteration27
+0th iteration28
+0th iteration29
+0th iteration30
+0th iteration31
+0th iteration32
+0th iteration33
+0th iteration34
+================================================
+The Final score is: 34
+================================================
+1th iteration1
+1th iteration2
+1th iteration3
+1th iteration4
+1th iteration5
+1th iteration6
+1th iteration7
+================================================
+The Final score is: 7
+================================================
+2th iteration1
+2th iteration2
+2th iteration3
+2th iteration4
+2th iteration5
+2th iteration6
+2th iteration7
+2th iteration8
+2th iteration9
+================================================
+The Final score is: 9
+================================================
+3th iteration1
+3th iteration2
+3th iteration3
+3th iteration4
+3th iteration5
+3th iteration6
+3th iteration7
+3th iteration8
+3th iteration9
+3th iteration10
+3th iteration11
+3th iteration12
+3th iteration13
+3th iteration14
+3th iteration15
+3th iteration16
+3th iteration17
+3th iteration18
+3th iteration19
+================================================
+The Final score is: 19
+================================================
+4th iteration1
+4th iteration2
+4th iteration3
+4th iteration4
+4th iteration5
+================================================
+The Final score is: 5
+================================================
+5th iteration1
+5th iteration2
+5th iteration3
+5th iteration4
+5th iteration5
+5th iteration6
+5th iteration7
+5th iteration8
+5th iteration9
+5th iteration10
+5th iteration11
+5th iteration12
+5th iteration13
+5th iteration14
+5th iteration15
+5th iteration16
+5th iteration17
+================================================
+The Final score is: 17
+================================================
+6th iteration1
+6th iteration2
+================================================
+The Final score is: 2
+================================================
+7th iteration1
+7th iteration2
+7th iteration3
+7th iteration4
+7th iteration5
+7th iteration6
+7th iteration7
+7th iteration8
+7th iteration9
+7th iteration10
+7th iteration11
+7th iteration12
+7th iteration13
+7th iteration14
+7th iteration15
+7th iteration16
+7th iteration17
+7th iteration18
+7th iteration19
+7th iteration20
+7th iteration21
+7th iteration22
+7th iteration23
+7th iteration24
+7th iteration25
+7th iteration26
+7th iteration27
+7th iteration28
+================================================
+The Final score is: 28
+================================================
+8th iteration1
+8th iteration2
+8th iteration3
+8th iteration4
+8th iteration5
+8th iteration6
+8th iteration7
+8th iteration8
+8th iteration9
+8th iteration10
+8th iteration11
+8th iteration12
+8th iteration13
+8th iteration14
+8th iteration15
+8th iteration16
+8th iteration17
+8th iteration18
+8th iteration19
+8th iteration20
+================================================
+The Final score is: 20
+================================================
+9th iteration1
+9th iteration2
+9th iteration3
+9th iteration4
+9th iteration5
+9th iteration6
+9th iteration7
+9th iteration8
+9th iteration9
+9th iteration10
+9th iteration11
+9th iteration12
+9th iteration13
+9th iteration14
+9th iteration15
+================================================
+The Final score is: 15
+================================================

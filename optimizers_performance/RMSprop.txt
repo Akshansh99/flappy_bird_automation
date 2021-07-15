@@ -1,0 +1,5 @@
+The score at iteration: 1000 is 0
+The score at iteration: 2000 is 0
+The score at iteration: 3000 is 0
+The score at iteration: 4000 is 0
+The score at iteration: 5000 is 0
