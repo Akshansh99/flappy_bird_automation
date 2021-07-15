@@ -256,10 +256,10 @@ def main(mode):
     cuda_is_available = torch.cuda.is_available()
 
     if mode == 'test':
-        curr_iteration = 25000
+        curr_iteration = 2000000
 
         # while curr_iteration <=1300000:
-        mod_name ='pretrained_model_Adam/current_model_'
+        mod_name ='pretrained_model/current_model_'
         iter = mod_name+str(curr_iteration)+'.pth'
         model = torch.load(
             iter,
